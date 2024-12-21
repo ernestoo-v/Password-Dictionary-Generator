@@ -16,7 +16,7 @@ This Python script generates a comprehensive password dictionary based on known 
 
    ```bash
    git clone https://github.com/yourusername/password-dictionary-generator.git
-   cd password-dictionary-generator
+   cd Password-Dictionary-Generator
    
 2. Run the script:
    ```bash
